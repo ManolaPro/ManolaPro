@@ -1,4 +1,8 @@
-## Hi there 👋
+### Hi there 👋
+### ArtificiumAI Chat with PDF demo
+<img src="./assets/artifcium-chat-with-pdf.gif" weight="auto"></img>
+
+<a href="https://artificium-ai.com">Artificium</a>
 
 <!--
 **ManolaPro/ManolaPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
